@@ -223,10 +223,12 @@
 "2024M06","Key figures (percent)","Growth rate, lending to households (MFI)",0.9
 "2024M07","Key figures (percent)","Growth rate, lending to households (MFI)",0.9
 "2024M08","Key figures (percent)","Growth rate, lending to households (MFI)",1.1
-"2024M09","Key figures (percent)","Growth rate, lending to households (MFI)",1.1
+"2024M09","Key figures (percent)","Growth rate, lending to households (MFI)",1.2
 "2024M10","Key figures (percent)","Growth rate, lending to households (MFI)",1.4
 "2024M11","Key figures (percent)","Growth rate, lending to households (MFI)",1.6
 "2024M12","Key figures (percent)","Growth rate, lending to households (MFI)",1.6
+"2025M01","Key figures (percent)","Growth rate, lending to households (MFI)",1.8
+"2025M02","Key figures (percent)","Growth rate, lending to households (MFI)",1.9
 "2006M01","Key figures (percent)","Growth rate, non-financial corporations (MFI)",10.5
 "2006M02","Key figures (percent)","Growth rate, non-financial corporations (MFI)",11.9
 "2006M03","Key figures (percent)","Growth rate, non-financial corporations (MFI)",11.5
@@ -455,6 +457,8 @@
 "2024M10","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.6
 "2024M11","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.4
 "2024M12","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-0.8
+"2025M01","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-0.5
+"2025M02","Key figures (percent)","Growth rate, non-financial corporations (MFI)",0.1
 "2006M01","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.19
 "2006M02","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.19
 "2006M03","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.31
@@ -682,4 +686,6 @@
 "2024M09","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.82
 "2024M10","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.65
 "2024M11","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.41
-"2024M12","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.3
+"2024M12","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.31
+"2025M01","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.23
+"2025M02","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.06

@@ -79,9 +79,9 @@
 "2015K2","Number","one- or two-dwelling buildings","Sweden",3617
 "2015K3","Number","one- or two-dwelling buildings","Sweden",2570
 "2015K4","Number","one- or two-dwelling buildings","Sweden",3062
-"2016K1","Number","one- or two-dwelling buildings","Sweden",3221
+"2016K1","Number","one- or two-dwelling buildings","Sweden",3220
 "2016K2","Number","one- or two-dwelling buildings","Sweden",4486
-"2016K3","Number","one- or two-dwelling buildings","Sweden",2883
+"2016K3","Number","one- or two-dwelling buildings","Sweden",2884
 "2016K4","Number","one- or two-dwelling buildings","Sweden",4087
 "2017K1","Number","one- or two-dwelling buildings","Sweden",3486
 "2017K2","Number","one- or two-dwelling buildings","Sweden",3698
@@ -89,31 +89,32 @@
 "2017K4","Number","one- or two-dwelling buildings","Sweden",3696
 "2018K1","Number","one- or two-dwelling buildings","Sweden",3029
 "2018K2","Number","one- or two-dwelling buildings","Sweden",3332
-"2018K3","Number","one- or two-dwelling buildings","Sweden",2324
-"2018K4","Number","one- or two-dwelling buildings","Sweden",3035
-"2019K1","Number","one- or two-dwelling buildings","Sweden",3151
+"2018K3","Number","one- or two-dwelling buildings","Sweden",2323
+"2018K4","Number","one- or two-dwelling buildings","Sweden",3037
+"2019K1","Number","one- or two-dwelling buildings","Sweden",3150
 "2019K2","Number","one- or two-dwelling buildings","Sweden",3465
-"2019K3","Number","one- or two-dwelling buildings","Sweden",2793
-"2019K4","Number","one- or two-dwelling buildings","Sweden",2633
+"2019K3","Number","one- or two-dwelling buildings","Sweden",2794
+"2019K4","Number","one- or two-dwelling buildings","Sweden",2631
 "2020K1","Number","one- or two-dwelling buildings","Sweden",3034
-"2020K2","Number","one- or two-dwelling buildings","Sweden",3454
+"2020K2","Number","one- or two-dwelling buildings","Sweden",3455
 "2020K3","Number","one- or two-dwelling buildings","Sweden",2893
-"2020K4","Number","one- or two-dwelling buildings","Sweden",3577
-"2021K1","Number","one- or two-dwelling buildings","Sweden",4006
-"2021K2","Number","one- or two-dwelling buildings","Sweden",4903
+"2020K4","Number","one- or two-dwelling buildings","Sweden",3579
+"2021K1","Number","one- or two-dwelling buildings","Sweden",4008
+"2021K2","Number","one- or two-dwelling buildings","Sweden",4904
 "2021K3","Number","one- or two-dwelling buildings","Sweden",3451
-"2021K4","Number","one- or two-dwelling buildings","Sweden",4221
-"2022K1","Number","one- or two-dwelling buildings","Sweden",3785
+"2021K4","Number","one- or two-dwelling buildings","Sweden",4225
+"2022K1","Number","one- or two-dwelling buildings","Sweden",3786
 "2022K2","Number","one- or two-dwelling buildings","Sweden",4103
-"2022K3","Number","one- or two-dwelling buildings","Sweden",2909
-"2022K4","Number","one- or two-dwelling buildings","Sweden",2550
-"2023K1","Number","one- or two-dwelling buildings","Sweden",2094
-"2023K2","Number","one- or two-dwelling buildings","Sweden",1719
-"2023K3","Number","one- or two-dwelling buildings","Sweden",1172
-"2023K4","Number","one- or two-dwelling buildings","Sweden",1451
-"2024K1","Number","one- or two-dwelling buildings","Sweden",1236
-"2024K2","Number","one- or two-dwelling buildings","Sweden",1557
-"2024K3","Number","one- or two-dwelling buildings","Sweden",1308
+"2022K3","Number","one- or two-dwelling buildings","Sweden",2918
+"2022K4","Number","one- or two-dwelling buildings","Sweden",2548
+"2023K1","Number","one- or two-dwelling buildings","Sweden",2168
+"2023K2","Number","one- or two-dwelling buildings","Sweden",1721
+"2023K3","Number","one- or two-dwelling buildings","Sweden",1167
+"2023K4","Number","one- or two-dwelling buildings","Sweden",1454
+"2024K1","Number","one- or two-dwelling buildings","Sweden",1280
+"2024K2","Number","one- or two-dwelling buildings","Sweden",1582
+"2024K3","Number","one- or two-dwelling buildings","Sweden",1329
+"2024K4","Number","one- or two-dwelling buildings","Sweden",1452
 "1996K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",1050
 "1996K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",1159
 "1996K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",1042
@@ -203,32 +204,33 @@
 "2017K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",9452
 "2017K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",11269
 "2018K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",8870
-"2018K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",10775
+"2018K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",10771
 "2018K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",8830
 "2018K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",14816
 "2019K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",6915
 "2019K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",11270
-"2019K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",9283
+"2019K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",9275
 "2019K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",8997
-"2020K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",9522
-"2020K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",13847
-"2020K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",10669
-"2020K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",11851
+"2020K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",9578
+"2020K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",14041
+"2020K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",10655
+"2020K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",11988
 "2021K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",11344
-"2021K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",16055
-"2021K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",11901
-"2021K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",17620
-"2022K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",11319
-"2022K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",14132
+"2021K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",16085
+"2021K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",11854
+"2021K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",17601
+"2022K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",11342
+"2022K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",14169
 "2022K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",8867
-"2022K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",9463
+"2022K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",9315
 "2023K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",4552
-"2023K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",6867
+"2023K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",6704
 "2023K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",3380
-"2023K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",4389
-"2024K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",4205
-"2024K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",5370
-"2024K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",3476
+"2023K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",4331
+"2024K1","Number","multi-dwelling buildings excluding service dwellings","Sweden",4505
+"2024K2","Number","multi-dwelling buildings excluding service dwellings","Sweden",5422
+"2024K3","Number","multi-dwelling buildings excluding service dwellings","Sweden",3467
+"2024K4","Number","multi-dwelling buildings excluding service dwellings","Sweden",5301
 "1996K1","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1138
 "1996K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",659
 "1996K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1125
@@ -328,22 +330,23 @@
 "2020K1","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",2042
 "2020K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",2301
 "2020K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1567
-"2020K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",2722
+"2020K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",2585
 "2021K1","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1317
-"2021K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1053
-"2021K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1117
+"2021K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1052
+"2021K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1124
 "2021K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",2491
 "2022K1","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",965
-"2022K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1587
-"2022K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",609
-"2022K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",641
+"2022K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1636
+"2022K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",682
+"2022K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",669
 "2023K1","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",452
 "2023K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1130
-"2023K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1183
-"2023K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1863
-"2024K1","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1952
-"2024K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1067
-"2024K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",428
+"2023K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1189
+"2023K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1883
+"2024K1","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",2076
+"2024K2","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",1092
+"2024K3","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",436
+"2024K4","Number","service dwellings for the elderly and dwellings for students, special dwellings","Sweden",932
 "1996K1","Number","buildings for seasonal and secondary use","Sweden",299
 "1996K2","Number","buildings for seasonal and secondary use","Sweden",709
 "1996K3","Number","buildings for seasonal and secondary use","Sweden",393
@@ -450,12 +453,13 @@
 "2021K4","Number","buildings for seasonal and secondary use","Sweden",809
 "2022K1","Number","buildings for seasonal and secondary use","Sweden",1190
 "2022K2","Number","buildings for seasonal and secondary use","Sweden",1136
-"2022K3","Number","buildings for seasonal and secondary use","Sweden",880
+"2022K3","Number","buildings for seasonal and secondary use","Sweden",881
 "2022K4","Number","buildings for seasonal and secondary use","Sweden",576
-"2023K1","Number","buildings for seasonal and secondary use","Sweden",460
+"2023K1","Number","buildings for seasonal and secondary use","Sweden",461
 "2023K2","Number","buildings for seasonal and secondary use","Sweden",589
-"2023K3","Number","buildings for seasonal and secondary use","Sweden",423
-"2023K4","Number","buildings for seasonal and secondary use","Sweden",420
-"2024K1","Number","buildings for seasonal and secondary use","Sweden",405
-"2024K2","Number","buildings for seasonal and secondary use","Sweden",543
-"2024K3","Number","buildings for seasonal and secondary use","Sweden",408
+"2023K3","Number","buildings for seasonal and secondary use","Sweden",424
+"2023K4","Number","buildings for seasonal and secondary use","Sweden",418
+"2024K1","Number","buildings for seasonal and secondary use","Sweden",407
+"2024K2","Number","buildings for seasonal and secondary use","Sweden",552
+"2024K3","Number","buildings for seasonal and secondary use","Sweden",420
+"2024K4","Number","buildings for seasonal and secondary use","Sweden",348
