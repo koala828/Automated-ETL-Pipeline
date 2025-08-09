@@ -228,7 +228,11 @@
 "2024M11","Key figures (percent)","Growth rate, lending to households (MFI)",1.6
 "2024M12","Key figures (percent)","Growth rate, lending to households (MFI)",1.6
 "2025M01","Key figures (percent)","Growth rate, lending to households (MFI)",1.8
-"2025M02","Key figures (percent)","Growth rate, lending to households (MFI)",1.9
+"2025M02","Key figures (percent)","Growth rate, lending to households (MFI)",2
+"2025M03","Key figures (percent)","Growth rate, lending to households (MFI)",2.1
+"2025M04","Key figures (percent)","Growth rate, lending to households (MFI)",2.3
+"2025M05","Key figures (percent)","Growth rate, lending to households (MFI)",2.4
+"2025M06","Key figures (percent)","Growth rate, lending to households (MFI)",2.4
 "2006M01","Key figures (percent)","Growth rate, non-financial corporations (MFI)",10.5
 "2006M02","Key figures (percent)","Growth rate, non-financial corporations (MFI)",11.9
 "2006M03","Key figures (percent)","Growth rate, non-financial corporations (MFI)",11.5
@@ -452,13 +456,17 @@
 "2024M05","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.4
 "2024M06","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.9
 "2024M07","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-2.5
-"2024M08","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-2.4
-"2024M09","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.7
-"2024M10","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.6
-"2024M11","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.4
+"2024M08","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-2.5
+"2024M09","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.8
+"2024M10","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.7
+"2024M11","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-1.5
 "2024M12","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-0.8
 "2025M01","Key figures (percent)","Growth rate, non-financial corporations (MFI)",-0.5
-"2025M02","Key figures (percent)","Growth rate, non-financial corporations (MFI)",0.1
+"2025M02","Key figures (percent)","Growth rate, non-financial corporations (MFI)",0.3
+"2025M03","Key figures (percent)","Growth rate, non-financial corporations (MFI)",0.6
+"2025M04","Key figures (percent)","Growth rate, non-financial corporations (MFI)",1.6
+"2025M05","Key figures (percent)","Growth rate, non-financial corporations (MFI)",2
+"2025M06","Key figures (percent)","Growth rate, non-financial corporations (MFI)",1.7
 "2006M01","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.19
 "2006M02","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.19
 "2006M03","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.31
@@ -689,3 +697,7 @@
 "2024M12","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.31
 "2025M01","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.23
 "2025M02","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.06
+"2025M03","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.09
+"2025M04","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.13
+"2025M05","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.03
+"2025M06","Key figures (percent)","Average interest rate for households housing loans (MFI)",3.01
